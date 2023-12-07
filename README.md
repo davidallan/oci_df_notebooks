@@ -6,4 +6,5 @@ OCI Dataflow Notebooks Examples
 * Spark Python and Spark SQL (creates a session/cluster shows visualizations)
 * Spark Use Session Python (uses an existing session/cluster)
 * Spark Use Session Python and Spark SQL (uses an existing session/cluster shows visualizations)
+* Spark Use Session Python and your Conda Environment (creates a new session/cluster)
 
